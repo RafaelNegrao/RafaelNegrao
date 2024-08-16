@@ -1,4 +1,4 @@
-<div><h2>Estudante de Engenharia de Produção com uma paixão crescente por programação. Estou sempre em busca de novos desafios e oportunidades para aplicar meus conhecimentos em projetos práticos. 🚀</div>
+<div><h2>Estudante de Engenharia de Produção apaixonado por programação. 🚀</div>
 
 💡 Interesses:<br>
 ![Blog](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -20,7 +20,6 @@ Automação de processos<br>
 <div><h2>Resumo das Tecnologias que mais utilizo:</h2></div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelNegrao&layout=donut&theme=dracula&locale=pt-br)](https://github.com/RafaelNegrao/github-readme-stats)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelNegrao&show_icons=true&theme=dracula&locale=pt-br)
 
 
