@@ -19,7 +19,6 @@
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=sqlite&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-68217A?style=flat-square&logo=c-sharp&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![PyQt5](https://img.shields.io/badge/PyQt5-41CD52?style=flat-square&logo=qt&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -33,8 +32,4 @@
 
 ---
 
-<details>
-  <summary>Linguagens mais usadas</summary>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelNegrao&layout=donut&theme=dracula&locale=en&hide=jupyter%20notebook" alt="Linguagens mais usadas" />
-</details>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelNegrao&layout=donut&theme=dracula&locale=en)](https://github.com/RafaelNegrao)
